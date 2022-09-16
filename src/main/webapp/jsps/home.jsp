@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>AcadaLearning- Home Page</title>
+<title>Paul Okorodudu - Home Page</title>
 <link href="images/DP black.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Acada Learning, Calgary, Canada Office.</h1>
+<h1 align="center">Welcome to Paul Toritseju Okorodudu DevOp's Company, Edmonton, Canada Office.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves you. Everyone will be hired with multiple job offers, Amen</h1>
+	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves me. At the end of this course, I will be hired with multiple job offers, Amen</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -33,20 +33,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/DP black.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Acada Learning, 
-		Calgary, Alberta, Canada
-		+1 587 574 2233,
-		info@acadalearning.com
+                Paul Okorodudu Learning, 
+		Edmonton, Alberta, Canada
+		+1 587 664 8287,
+		info@paulokorodudu.com
 		<br>
-		<a href="mailto:info@acadalearning">Mail to Acada Learning</a>
+		<a href="mailto:info@paulokorodudu.com">Mail to Paul Okorodudu</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Acada Learning - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2022 by <a href="http://acadalearning.com/">Acada Learning</a> </small></p>
+<p align=center>Paul Okorodudu - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2022 by <a href="http://paul okorodudu.com/">Acada Learning</a> </small></p>
 
 </body>
 </html>
