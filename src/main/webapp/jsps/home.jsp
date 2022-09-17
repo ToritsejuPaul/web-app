@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Paul Okorodudu - Home Page</title>
+<title>Paul and Dorcas Okorodudu - Home Page</title>
 <link href="images/DP black.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Paul Toritseju Okorodudu DevOp's Company, Edmonton, Canada Office.</h1>
+<h1 align="center">Welcome to Paul and Dorcas Toritseju Okorodudu DevOp's Company, Edmonton, Canada Office.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves me. At the end of this course, I will be hired with multiple job offers, Amen</h1>
 <hr>
@@ -33,7 +33,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/DP black.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Paul Okorodudu Learning, 
+                Paul and Dorcas Okorodudu Learning, 
 		Edmonton, Alberta, Canada
 		+1 587 664 8287,
 		info@paulokorodudu.com
@@ -45,7 +45,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Paul Okorodudu - Consultant, Training and Software Development</p>
+<p align=center>Paul and Dorcas Okorodudu - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2022 by <a href="http://paul okorodudu.com/">Acada Learning</a> </small></p>
 
 </body>
