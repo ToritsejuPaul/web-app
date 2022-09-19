@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Paul and Dorcas Toritseju Okorodudu DevOp's Company, Edmonton, Canada Office.</h1>
+<h1 align="center">Welcome to Toju and Shola Toritseju Okorodudu DevOp's Company, Edmonton, Canada Office.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves me. At the end of this course, I will be hired with multiple job offers, Amen</h1>
 <hr>
